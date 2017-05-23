@@ -17,3 +17,8 @@ Week 2 内容框架
 4.Normal Equation(正规方程)
   4.1 Normal Equation vs Gradient Descent
   4.2 Normal Equation Noninvertibility
+
+
+
+
+
