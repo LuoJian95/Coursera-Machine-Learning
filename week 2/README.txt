@@ -5,7 +5,7 @@ Week 2 内容框架
   1.2 损失函数 J
   1.3 梯度下降算法 
   
-2.梯度下降策略
+2.梯度下降优化策略
   2.1 数据预处理
       2.1.1 feature scaling
       2.1.2 mean normalization
