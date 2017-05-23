@@ -15,3 +15,5 @@ Week 2 内容框架
   3.1 将单变量多项式回归转换为多变量线性回归
 
 4.Normal Equation(正规方程)
+  4.1 Normal Equation vs Gradient Descent
+  4.2 Normal Equation Noninvertibility
