@@ -7,7 +7,7 @@ Week 2 内容框架
   
 2.梯度下降优化策略
   2.1 数据预处理
-      2.1.1 feature scaling
+      2.1.1 feature scaling(思考为什么要feature scaling?)
       2.1.2 mean normalization
   2.2 学习率的调整
   
