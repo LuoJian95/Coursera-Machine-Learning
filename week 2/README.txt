@@ -18,7 +18,11 @@ Week 2 内容框架
   4.1 Normal Equation vs Gradient Descent
   4.2 Normal Equation Noninvertibility
 
+5. x = A-1b 的梯度下降解法
 
-
-
+6. 线性回归大作业
+  6.1 cost function 的优化写法
+  6.2 Gradient Descent 的简便写法
+  6.3 theta 的两种解法比较
+  6.4 bsxfun 函数的使用
 
