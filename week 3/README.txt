@@ -15,6 +15,6 @@ Week 3 内容框架
   3.2 梯度下降算法 
 
 4. 逻辑回归大作业
-  6.1 cost function 和 grad 计算
-  6.2 fminunc 函数的使用
+  4.1 cost function 和 grad 计算
+  4.2 fminunc 函数的使用
  
